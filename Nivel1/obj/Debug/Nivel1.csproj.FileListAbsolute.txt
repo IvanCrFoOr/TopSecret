@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\TopSecret\Nivel1\bin\Debug\Nivel1.exe.config
+C:\Users\LENOVO\source\repos\TopSecret\Nivel1\bin\Debug\Nivel1.exe
+C:\Users\LENOVO\source\repos\TopSecret\Nivel1\bin\Debug\Nivel1.pdb
+C:\Users\LENOVO\source\repos\TopSecret\Nivel1\bin\Debug\BO.dll
+C:\Users\LENOVO\source\repos\TopSecret\Nivel1\bin\Debug\BO.pdb
+C:\Users\LENOVO\source\repos\TopSecret\Nivel1\obj\Debug\Nivel1.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\TopSecret\Nivel1\obj\Debug\Nivel1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TopSecret\Nivel1\obj\Debug\Nivel1.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\TopSecret\Nivel1\obj\Debug\Nivel1.exe
+C:\Users\LENOVO\source\repos\TopSecret\Nivel1\obj\Debug\Nivel1.pdb

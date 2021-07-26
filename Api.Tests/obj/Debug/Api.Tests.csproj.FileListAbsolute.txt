@@ -52,3 +52,4 @@ C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\obj\Debug\Api.Tests.csproj.Core
 C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\obj\Debug\Api.Tests.csproj.CopyComplete
 C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\obj\Debug\Api.Tests.dll
 C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\obj\Debug\Api.Tests.pdb
+C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\bin\Debug\Api.xml
