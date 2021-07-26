@@ -1,0 +1,5 @@
+C:\Users\LENOVO\source\repos\TopSecret\BO\bin\Release\BO.dll
+C:\Users\LENOVO\source\repos\TopSecret\BO\bin\Release\BO.pdb
+C:\Users\LENOVO\source\repos\TopSecret\BO\obj\Release\BO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TopSecret\BO\obj\Release\BO.dll
+C:\Users\LENOVO\source\repos\TopSecret\BO\obj\Release\BO.pdb
