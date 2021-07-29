@@ -53,3 +53,6 @@ C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\obj\Debug\Api.Tests.csproj.Copy
 C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\obj\Debug\Api.Tests.dll
 C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\obj\Debug\Api.Tests.pdb
 C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\bin\Debug\Api.xml
+C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\bin\Debug\WebGrease.dll
+C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\LENOVO\source\repos\TopSecret\Api.Tests\bin\Debug\Antlr3.Runtime.pdb

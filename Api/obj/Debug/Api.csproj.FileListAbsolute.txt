@@ -88,7 +88,6 @@ C:\Users\LENOVO\source\repos\TopSecret\Api\bin\es\System.Web.Razor.resources.dll
 C:\Users\LENOVO\source\repos\TopSecret\Api\bin\es\System.Web.WebPages.resources.dll
 C:\Users\LENOVO\source\repos\TopSecret\Api\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\LENOVO\source\repos\TopSecret\Api\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\LENOVO\source\repos\TopSecret\Api\obj\Debug\Api.csprojAssemblyReference.cache
 C:\Users\LENOVO\source\repos\TopSecret\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
 C:\Users\LENOVO\source\repos\TopSecret\Api\obj\Debug\Api.csproj.CopyComplete
 C:\Users\LENOVO\source\repos\TopSecret\Api\obj\Debug\Api.dll
@@ -140,3 +139,10 @@ C:\Users\LENOVO\source\repos\TopSecret\Api\App_Start\es\System.Web.Razor.resourc
 C:\Users\LENOVO\source\repos\TopSecret\Api\App_Start\es\System.Web.WebPages.resources.dll
 C:\Users\LENOVO\source\repos\TopSecret\Api\App_Start\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\LENOVO\source\repos\TopSecret\Api\App_Start\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\LENOVO\source\repos\TopSecret\Api\App_Start\AWSSDK.Core.dll
+C:\Users\LENOVO\source\repos\TopSecret\Api\App_Start\AWSSDK.ElasticBeanstalk.dll
+C:\Users\LENOVO\source\repos\TopSecret\Api\App_Start\AWSSDK.Core.pdb
+C:\Users\LENOVO\source\repos\TopSecret\Api\App_Start\AWSSDK.Core.xml
+C:\Users\LENOVO\source\repos\TopSecret\Api\App_Start\AWSSDK.ElasticBeanstalk.pdb
+C:\Users\LENOVO\source\repos\TopSecret\Api\App_Start\AWSSDK.ElasticBeanstalk.xml
+C:\Users\LENOVO\source\repos\TopSecret\Api\obj\Debug\Api.csproj.AssemblyReference.cache
